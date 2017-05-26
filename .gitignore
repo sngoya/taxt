@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+# Webstorm/Vscode/Sublime
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Logs and trash
+npm-debug.log*
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+log.txt
+$RECYCLE.BIN/
+tsconfig.tmp.json
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+
+# Build folders
+.sass-cache/
+.tmp/
+*.tmp.*
+
+# Coverege folders
+config/coverage
+coverage/*
+dist/
+tmp/
+temp/
+
+# Doc
+doc/
+
+# Dependencies
+node_modules/
+platforms/
+plugins/
+=======
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+>>>>>>> 303e12f6dcaa56bcac62b567fed9f673ee5c4ddb
