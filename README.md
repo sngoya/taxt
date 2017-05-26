@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ionic 2 Taxi App
 
 [![Build Status](https://travis-ci.org/ddellamico/ionic2-taxi-app.svg?branch=master)](https://travis-ci.org/ddellamico/ionic2-taxi-app) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -104,3 +105,6 @@ MIT
 =======
 # forum-app-api
 >>>>>>> 303e12f6dcaa56bcac62b567fed9f673ee5c4ddb
+=======
+# taxt
+>>>>>>> 7df37633df334cfb4926261b53682ac5d806f946
